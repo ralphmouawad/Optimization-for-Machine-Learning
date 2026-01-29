@@ -7,7 +7,7 @@ I - Four labs:
 II - Final Project: 
 This includes mathematical derivations and implmenting optimization algorithms to solve the quantile regression problem with a smoothed pinball loss and (Non-)smooth penalties. Algorithms include:
 - Proximal Methods
-- Coordinate methods R
-- egular gradient descent
+- Coordinate methods
+- Regular gradient descent
 - L-BFGS quasi newton
--  L1 and L2 proximal operators.
+- L1 and L2 proximal operators.
